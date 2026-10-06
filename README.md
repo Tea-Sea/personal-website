@@ -1,0 +1,1 @@
+This will be a Typescript rewrite of my personal website found at https://www.tomcaspar.me
