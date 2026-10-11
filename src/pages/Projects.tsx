@@ -1,0 +1,18 @@
+function Projects() {
+
+  return (
+    <h3 className='center-parent text-zinc-200'>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dignissim et ipsum quis ultricies. Donec aliquet dolor ante, eget viverra nulla tincidunt in. Sed tincidunt, leo eget ultrices faucibus, quam mi ultrices tortor, nec convallis velit lectus sed dolor. Aenean convallis vehicula iaculis. Proin lacinia quam metus, vitae fringilla leo eleifend sagittis. Morbi pulvinar diam nibh, nec porta lorem bibendum quis. Cras maximus dapibus lacus, eu iaculis arcu pulvinar suscipit.
+    <br></br><br></br>
+    In volutpat ut velit ut maximus. Fusce sollicitudin ligula elit, eget dignissim nisi efficitur eget. Integer egestas tortor nec nunc sollicitudin, in imperdiet purus sagittis. Quisque dapibus ex vitae libero semper ultrices vel eget libero. Sed in convallis metus. Curabitur ornare orci nibh, at lobortis lacus condimentum eget. Suspendisse et libero hendrerit, finibus elit at, egestas augue. Pellentesque ex purus, consequat nec mi sed, iaculis faucibus leo. Nulla aliquam mi quis faucibus suscipit. Sed interdum ipsum dictum est faucibus iaculis. Nullam est nunc, aliquet non pulvinar sit amet, varius eu est. Nunc hendrerit in arcu a iaculis. Suspendisse in eleifend ante, ut pulvinar dui.
+    <br></br><br></br>
+    Sed condimentum sed ante sed tempor. Fusce leo libero, mollis ac ex vel, placerat commodo tellus. Vivamus vitae orci quis enim mattis tincidunt. Nullam venenatis luctus lacus in finibus. Pellentesque at lobortis dui. Curabitur finibus scelerisque viverra. Aenean at cursus magna. Vestibulum eget convallis tellus, lobortis feugiat mi. Curabitur convallis orci facilisis facilisis luctus. In sit amet varius purus. Integer vel ante id nunc convallis fringilla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+    <br></br><br></br>
+    Pellentesque ac tortor nec augue congue maximus. Pellentesque congue, ex eget posuere dictum, felis est porttitor nisi, eu laoreet est lorem vitae libero. Phasellus ac aliquam lacus. Fusce accumsan sed libero in pulvinar. Aliquam eu sapien vel massa faucibus mollis vel sit amet lectus. Aliquam sapien neque, posuere ut turpis nec, hendrerit rhoncus ante. Pellentesque mattis est massa, vitae volutpat nisl bibendum a. Vestibulum convallis eget odio eu bibendum. Aliquam tincidunt, dolor sit amet fermentum pellentesque, diam erat dignissim lorem, eget faucibus metus ex non enim. Vestibulum eleifend odio eget enim laoreet, ut convallis nunc pretium. Ut at congue dolor. Cras eu lorem hendrerit, euismod diam nec, ullamcorper eros. Cras quam metus, facilisis at viverra non, venenatis in lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+    <br></br><br></br>
+    Donec scelerisque libero quis hendrerit cursus. Etiam ut leo odio. Quisque malesuada odio ac porta blandit. Sed id sagittis nisl. Nunc vestibulum elementum lacinia. Sed eu cursus libero. Nam interdum lectus nec metus egestas, sed convallis tellus eleifend. Pellentesque viverra dui quis lacus viverra euismod. Fusce vehicula dui ut faucibus tincidunt. Proin quis quam odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. In non sapien eu sapien sagittis pharetra. Suspendisse iaculis dolor a nisl vestibulum, sollicitudin consectetur turpis imperdiet. Nullam enim nibh, maximus in faucibus at, consectetur non tortor. Nam consequat leo eu ultrices fermentum.
+    </h3>
+  );
+}
+
+export default Projects;
