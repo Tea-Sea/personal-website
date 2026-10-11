@@ -1,8 +1,8 @@
 function About() {
 
-  return (
-    <h3 className='center-parent text-zinc-200'>ABOUT!</h3>
-  );
+    return (
+        <h3 className='center-parent text-contrasting'>ABOUT!</h3>
+    );
 }
 
 export default About;

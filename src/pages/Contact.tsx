@@ -1,8 +1,13 @@
 function Contact() {
 
-  return (
-    <h3 className='center-parent text-zinc-200'>CONTACT INFO!</h3>
-  );
+    const text = "First Line\nSecond Line\nThird Line";
+
+    return (
+        <>
+        <h3 className='center-parent text-contrasting'>CONTACT INFO!</h3>
+        <hr className="text-contrasting"/>
+    </>
+    );
 }
 
 export default Contact;

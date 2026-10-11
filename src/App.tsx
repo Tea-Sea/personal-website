@@ -4,13 +4,13 @@ import { BrowserRouter } from 'react-router-dom';
 
 function App() {
 
-  return (
-    <BrowserRouter>
-      <MainLayout>
-        <AppRoutes/>
-      </MainLayout>
-    </BrowserRouter>
-  );
+	return (
+		<BrowserRouter>
+		<MainLayout>
+			<AppRoutes/>
+		</MainLayout>
+		</BrowserRouter>
+	);
 }
 
 export default App

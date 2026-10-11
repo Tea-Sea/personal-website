@@ -1,7 +1,7 @@
 import { Link, type LinkProps, useLocation} from "react-router-dom"
 
 type HeaderButtonProps = {
-  children: React.ReactNode
+  	children: React.ReactNode
 } & LinkProps
 
 function HeaderButton({ children, to, ...props }: HeaderButtonProps) {
@@ -11,12 +11,11 @@ function HeaderButton({ children, to, ...props }: HeaderButtonProps) {
         <Link
         to={to}
         {...props}
-        className={`rounded px-5 py-2 font-mono transition-all duration-300 hover:backdrop-brightness-180 hover:text-amber-300 ${
+        className={`rounded px-5 py-2 font-mono transition-all duration-300 hover:backdrop-brightness-180 hover:text-accent ${
         isActive
-          ? "text-violet-500"   // active style
-          : "text-zinc-400 " // default style
-      }`}
-    >
+			? "text-primary"   // active style
+			: "text-secondary " // default style
+      	}`}>
             {children}
         </Link>
     )
